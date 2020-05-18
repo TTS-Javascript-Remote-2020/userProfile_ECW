@@ -1,6 +1,6 @@
 const userProfile = {
   name: 'Elliott Woodward',
-  address: '42 LTU&A Street',
+  address: '42 LTU&E Street',
   city: 'Asheville',
   state: 'North Carolina',
   zip: '28806',
