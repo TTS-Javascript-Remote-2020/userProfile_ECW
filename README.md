@@ -27,10 +27,10 @@ Exercise 3: Mixins
 
 # To Run:
 
-- __$__ `git clone git@github.com:TTS-Javascript-Remote-2020/userProfile_ECW.git`
+- `$ git clone git@github.com:TTS-Javascript-Remote-2020/userProfile_ECW.git`
 
-- __$__ `cd userProfile_ECW`
+- `$ cd userProfile_ECW`
 
-- __$__ `npm install`
+- `$ npm install`
 
-- __$__ `node app.js`
+- `$ node app.js`
