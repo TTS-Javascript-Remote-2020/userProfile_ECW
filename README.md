@@ -24,3 +24,13 @@ Exercise 3: Mixins
 - Get a profile update and update the profile with it.
 
 - log the new profile
+
+# To Run:
+
+- git clone git@github.com:TTS-Javascript-Remote-2020/userProfile_ECW.git
+
+- cd userProfile_ECW
+
+- npm install
+
+- node app.js
