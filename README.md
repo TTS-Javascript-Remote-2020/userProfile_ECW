@@ -1,4 +1,4 @@
-# UserProfile_ECW
+# userProfile_ECW
 Mixins Exercise from 2020-05-13
 
 Exercise 3: Mixins
