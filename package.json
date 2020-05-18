@@ -1,0 +1,19 @@
+{
+  "name": "user_profile_ecw",
+  "version": "1.0.0",
+  "description": "Mixins Exercise from 2020-05-13",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TTS-Javascript-Remote-2020/userProfile_ECW.git"
+  },
+  "author": "Elliott Woodward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TTS-Javascript-Remote-2020/userProfile_ECW/issues"
+  },
+  "homepage": "https://github.com/TTS-Javascript-Remote-2020/userProfile_ECW#readme"
+}
